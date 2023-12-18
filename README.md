@@ -20,3 +20,6 @@ https://tralston511.github.io/Interactive-Daily-Calendar/
 
 ## Link to My GitHub
 https://github.com/TRalston511
+
+## ScreenShot
+![image](https://github.com/TRalston511/Interactive-Daily-Calendar/assets/148827170/b732d469-8deb-444b-b9db-23d154e67758)
